@@ -1,51 +1,85 @@
-# Jobby App
+# Jobby App 💼
 
-A modern job portal application built using React.js.
+A full-featured Job Portal built using React.js.
+
+## 🌐 Live Demo
+
+👉 https://moinjobbyapp05.ccbp.tech/login
+
+---
+
+## Login Credentials
+
+Username:
+```
+rahul
+```
+
+Password:
+```
+rahul@2021
+```
+
+---
 
 ## Features
 
-- Secure Login Authentication using JWT
+- JWT Authentication
 - Protected Routes
 - Job Search
-- Employment Type Filters
-- Salary Range Filters
-- Job Details Page
+- Employment Filters
+- Salary Filters
+- Company Profiles
+- Job Details
 - Similar Jobs
-- Loading & Failure States
 - Responsive UI
+- REST API Integration
+
+---
 
 ## Tech Stack
 
 - React.js
 - React Router
-- JavaScript (ES6)
+- JavaScript
 - CSS3
 - REST APIs
 - JWT Authentication
 
-## Project Structure
+---
 
+## Screenshots
+
+### Login
+
+![Login](screenshots/login-page.png)
+
+### Home
+
+![Home](screenshots/home-page.png)
+
+### Jobs
+
+![Jobs](screenshots/jobs-page.png)
+
+### Job Details
+
+![Job Details](screenshots/job-details-page.png)
+
+---
+
+## Installation
+
+```bash
+npm install
+npm start
 ```
-src/
- ├── components/
- ├── constants.js
- ├── App.js
- └── index.js
-```
 
-## Learning Outcomes
+---
 
-This project helped me learn:
+## Author
 
-- Component Architecture
-- Routing
-- Authentication
-- State Management
-- API Integration
-- Conditional Rendering
-- Responsive Design
+Mohammed Khaja Moinuddin
 
-## To login:
-
-- Username: rahul
-- password: rahul@2021
+LinkedIn:
+https://www.linkedin.com/in/mohammed-khaja-moinuddin05/
