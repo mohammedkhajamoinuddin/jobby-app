@@ -46,5 +46,6 @@ This project helped me learn:
 - Responsive Design
 
 ## To login:
--Username: rahul
--password: rahul@2021
+
+- Username: rahul
+- password: rahul@2021
