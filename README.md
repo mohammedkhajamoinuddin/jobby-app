@@ -44,3 +44,7 @@ This project helped me learn:
 - API Integration
 - Conditional Rendering
 - Responsive Design
+
+**To login:**
+-Username: rahul
+-password: rahul@2021
