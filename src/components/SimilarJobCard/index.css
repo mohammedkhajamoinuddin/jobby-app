@@ -1,0 +1,10 @@
+.similar-card {
+  background: #272727;
+  color: white;
+  border-radius: 10px;
+  padding: 20px;
+  list-style: none;
+  width: 320px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
